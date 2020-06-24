@@ -6,6 +6,6 @@
     <title>Spring Web App</title>
 </head>
 <body>
- yeah lets gooo baby
+  Welcome ${name}
 </body>
 </html>
